@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete project documentation",
+      "description": "Ensure all project documentation is up to date and complete.",
+      "dueDate": "2023-10-15"
+    },
+    {
+      "id": "2",
+      "title": "Fix login bug",
+      "description": "Investigate and fix the login issue reported by users.",
+      "dueDate": "2023-10-20"
+    },
+    {
+      "id": "dd6e",
+      "title": "Estudar",
+      "completed": false
+    },
+    {
+      "id": "edad",
+      "title": "Estudar next.js",
+      "description": "Visitar a FIAP e estudar.",
+      "dueDate": "2024-10-02",
+      "completed": false
+    }
+  ]
+}
